@@ -1,2 +1,2 @@
 # Sprites
-Insurgence Sprites
+Ryuka Sprites
